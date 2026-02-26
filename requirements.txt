@@ -1,0 +1,14 @@
+# Netflix Wrapped AI v2 — Dependencies
+
+# Core
+streamlit>=1.32.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+
+# ML Intelligence Layer
+scikit-learn>=1.3.0       # KMeans clustering, PCA, anomaly detection
+
+# Optional: enhanced data processing
+# openpyxl>=3.1.0         # Excel support
+# scipy>=1.11.0           # Advanced statistics
